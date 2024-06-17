@@ -4,7 +4,7 @@
 
 ## Proyecto
 
-Este repositorio contiene ejemplos simples modificaciones de ejemplos que me sujiere chat gpt, ya que estoy intentando entrar en la disciplina de programación.
+Este repositorio contiene ejemplos simples modificaciones de ejemplos que me sugiere chat gpt, ya que estoy intentando entrar en la disciplina de programación.
 
 ## Contribución
 
