@@ -4,7 +4,7 @@
 
 ## Proyecto
 
-Este repositorio contiene ejemplos simples de código en Python.
+Este repositorio contiene ejemplos simples modificaciones de ejemplos que me sujiere chat gpt, ya que estoy intentando entrar en la disciplina de programación.
 
 ## Contribución
 
@@ -12,4 +12,4 @@ Siéntete libre de clonar el repositorio y enviar pull requests con mejoras o co
 
 ## Contacto
 
-Puedes contactarme en mi correo electrónico: skippyzao@gmail.com
+Puedes contactarme en github!!!
